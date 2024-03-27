@@ -1,3 +1,3 @@
-# This is Advanced Storage Method using SQL and others
+# REDIS
 
-## 0x02-redis_basic
+## This is the advanced storage methods using SQL and others
